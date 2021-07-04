@@ -2,6 +2,8 @@
 
 ### For the most accurate in depth description of the project, please refer to the "FTRI.pptx" file uploaded in the repository.
 
+<i>Refer to the prototype image for an overall idea.</i>
+
 We submitted this project for FTRI as an award application in September, 2019. The results were declared in November, 2019 and we were declared winners. We were felicitated with the award in December, 2019.
 This project was also presented at Engineer's Day Expo, 2019, VIT Vellore.
 
